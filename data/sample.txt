@@ -1,0 +1,1 @@
+Artificial intelligence is transforming how we work and live. Machine learning models are being used in healthcare, finance, and education. Large language models like GPT and Gemini can understand and generate human-like text. Retrieval Augmented Generation (RAG) combines search with language models to give accurate, context-aware answers.
