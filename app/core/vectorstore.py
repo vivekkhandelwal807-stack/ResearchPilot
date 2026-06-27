@@ -3,8 +3,8 @@ from langchain_chroma import Chroma
 from langchain_core.documents import Document
 from app.core.embeddings import get_embedding_model
 from typing import List
-
-CHROMA_DIR = "chroma_db"  # where ChromaDB will persist data
+from app.config import CHROMA_DIR
+ 
 
 def get_vectorstore() -> Chroma:
     """
